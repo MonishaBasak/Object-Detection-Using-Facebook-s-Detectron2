@@ -3,10 +3,10 @@ Detectron2 is a research platform and a production library for deep learning, bu
 
 We will then look at how we can build a Faster R-CNN model in Detectron2 and customize it. We will then configure the parameters & hyperparameters of the model. We will then move on to training the Model and subsequently to model inference and evaluation.
 
-##Learn step-by-step
--Introduction to Detectron2 & Setup
--Preparing and loading the Dataset
--Visualizing the Dataset
--Build and Customizing the Training Model
--Configuring & Training the Model
--Inference & Evaluation
+## Learn step-by-step
+- Introduction to Detectron2 & Setup
+- Preparing and loading the Dataset
+- Visualizing the Dataset
+- Build and Customizing the Training Model
+- Configuring & Training the Model
+- Inference & Evaluation
