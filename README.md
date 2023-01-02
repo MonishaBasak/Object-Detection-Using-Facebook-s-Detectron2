@@ -12,6 +12,9 @@ We will then look at how we can build a Faster R-CNN model in Detectron2 and cus
 - Inference & Evaluation
 
 **Balloon Dataset:** https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip
+
 **Facebook's AI Object Detector Repository:** https://github.com/facebookresearch/detectron2
+
 **Test Image:** https://images.fineartamerica.com/images-medium-large-5/central-park-balloon-man-madeline-ellis.jpg
+
 **Coursera Project Link:** https://www.coursera.org/projects/object-detection-facebook-detectron2
